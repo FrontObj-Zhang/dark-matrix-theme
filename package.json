@@ -1,0 +1,33 @@
+{
+    "name": "dark-matrix-theme",
+    "displayName": "dark-matrix-theme",
+    "description": "Welcome to Matrix World,and enjoy write code!",
+    "version": "0.0.1-beta",
+    "publisher": "FrontObj-Zhang",
+    "icon": "dark-matrix-logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FrontObj-Zhang/dark-matrix-theme"
+    },
+    "keywords": [
+        "Dark",
+        "Dark Theme",
+        "Matrix",
+        "Green"
+    ],
+    "engines": {
+        "vscode": "^1.74.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Matrix Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Matrix Theme-color-theme.json"
+            }
+        ]
+    }
+}
