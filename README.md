@@ -45,7 +45,7 @@ vue
 
 Full effect up coperation with background wallpaper plugin:
 1. Install any **background** plugin from extension search,
-2. Open the plugin to add the <a href="https://github.com/FrontObj-Zhang/dark-matrix-theme/blob/master/background-image.png">picture</a> under the **background-image** of the **dark-matrix-theme** theme directory.
+2. Open the plugin to add the <a href="https://github.com/FrontObj-Zhang/dark-matrix-theme/blob/master/background-image/wallhaven-e72xro.jpg">picture</a> under the **background-image** of the **dark-matrix-theme** theme directory.
 
 
 # about
