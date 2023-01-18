@@ -45,7 +45,7 @@ vue
 
 配合背景壁纸插件效果拉满：
 1. 从扩展搜索安装任意一个 **background** 插件，
-2. 打开插件添加**dark-matrix-theme**主题目录**background-image**下的<a href="https://github.com/FrontObj-Zhang/dark-matrix-theme/blob/master/background-image.png">图片</a>。
+2. 打开插件添加**dark-matrix-theme**主题目录**background-image**下的<a href="https://github.com/FrontObj-Zhang/dark-matrix-theme/blob/master/background-image/wallhaven-e72xro.jpg">图片</a>。
 
 # 关于
 
