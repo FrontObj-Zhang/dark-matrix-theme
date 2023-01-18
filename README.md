@@ -11,26 +11,29 @@
 dark-matrix-theme is love for the Matrix movies and programming, an independent development of the Matrix theme vscode theme color by <a href="https://github.com/FrontObj-Zhang">FrontObj-Zhang</a>.
 
 # demo display
+
 defalut
-<img width="100%" src="../dark-matrix-theme/demo/defalut.png">
+
+<img width="100%" src="https://github.com/FrontObj-Zhang/dark-matrix-theme/blob/master/demo/defalut.png">
 
 html
 
-<img width="100%" src="../dark-matrix-theme/demo/html.png">
+<img width="100%" src="https://github.com/FrontObj-Zhang/dark-matrix-theme/blob/master/demo/html.png">
 
 css
 
-<img width="50%" src="../dark-matrix-theme/demo/css.png">
+<img width="50%" src="https://github.com/FrontObj-Zhang/dark-matrix-theme/blob/master/demo/css.png">
 
 javaScript
 
-<img width="100%" src="../dark-matrix-theme/demo/javascript.png">
+<img width="100%" src="https://github.com/FrontObj-Zhang/dark-matrix-theme/blob/master/demo/javascript.png">
 
 vue
 
-<img width="100%" src="../dark-matrix-theme/demo/vue.png">
+<img width="100%" src="https://github.com/FrontObj-Zhang/dark-matrix-theme/blob/master/demo/vue.png">
 
 # install
+
 1.Install [Visual Studio Code](https://code.visualstudio.com)
 2.Start Visual Studio Code
 3.Select **Extensions from the menu**
@@ -43,7 +46,6 @@ vue
 Full effect up coperation with background wallpaper plugin:
 1.Install any **background** plugin from extension search
 2.Open the plugin to add the <a href="https://github.com/FrontObj-Zhang/dark-matrix-theme/blob/master/background-image.png">picture</a> under the **background-image** of the **dark-matrix-theme** theme directory
-
 
 # about
 
