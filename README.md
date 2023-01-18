@@ -34,25 +34,26 @@ vue
 
 # install
 
-1.Install [Visual Studio Code](https://code.visualstudio.com)
-2.Start Visual Studio Code
-3.Select **Extensions from the menu**
-4.Search **dark-matrix-theme**
-5.Click **install** to install
-6.From the menu bar click: File > Preferences > Color Themes > **dark-matrix-theme**
+1. Install [Visual Studio Code](https://code.visualstudio.com)，
+2. Start Visual Studio Code，
+3. Select **Extensions from the menu**，
+4. Search **dark-matrix-theme**，
+5. Click **install** to install，
+6. From the menu bar click: File > Preferences > Color Themes > **dark-matrix-theme**.
 
 # supporting expansion
 
 Full effect up coperation with background wallpaper plugin:
-1.Install any **background** plugin from extension search
-2.Open the plugin to add the <a href="https://github.com/FrontObj-Zhang/dark-matrix-theme/blob/master/background-image.png">picture</a> under the **background-image** of the **dark-matrix-theme** theme directory
+1. Install any **background** plugin from extension search,
+2. Open the plugin to add the <a href="https://github.com/FrontObj-Zhang/dark-matrix-theme/blob/master/background-image.png">picture</a> under the **background-image** of the **dark-matrix-theme** theme directory.
+
 
 # about
 
-This is my first time trying to make a vscode theme. If you have any suggestions, you are welcome to give me  <a href = "https://github.com/FrontObj-Zhang/dark-matrix-theme/issues">feedback</a>
+This is my first time trying to make a vscode theme. If you have any suggestions, you are welcome to give me  <a href = "https://github.com/FrontObj-Zhang/dark-matrix-theme/issues">feedback</a>.
 
 
-If you also want to develop your own vscode theme, you can refer to <a href = "https://code.visualstudio.com/api/extension-guides/color-theme"> here</a>
+If you also want to develop your own vscode theme, you can refer to <a href = "https://code.visualstudio.com/api/extension-guides/color-theme"> here</a>.
 
 
 # contributor
